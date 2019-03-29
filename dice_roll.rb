@@ -4,5 +4,5 @@
 
 def roll
   number = rand(1..6)
-  puts number
+  puts number.to_i
 end
